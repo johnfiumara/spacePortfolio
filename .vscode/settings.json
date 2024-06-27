@@ -1,0 +1,4 @@
+{
+    "prisma-smart-formatter.typescript.defaultFormatter": "svipas.prettier-plus",
+    "prisma-smart-formatter.typescriptreact.defaultFormatter": "svipas.prettier-plus"
+}
